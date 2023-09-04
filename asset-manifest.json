@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d7f9fa76.css",
-    "main.js": "/static/js/main.c60a3a9f.js",
+    "main.js": "/static/js/main.b6ae49d9.js",
     "static/media/nepal.jpg": "/static/media/nepal.6fe52bf08a203857dbbe.jpg",
     "static/media/キックオフイベント.jpg": "/static/media/キックオフイベント.2285956751aca6b3fed1.jpg",
     "static/media/Mission.png": "/static/media/Mission.889e242b13a8f07775ee.png",
@@ -10,10 +10,10 @@
     "static/media/agra.jpg": "/static/media/agra.cece89f2c28bec64b456.jpg",
     "index.html": "/index.html",
     "main.d7f9fa76.css.map": "/static/css/main.d7f9fa76.css.map",
-    "main.c60a3a9f.js.map": "/static/js/main.c60a3a9f.js.map"
+    "main.b6ae49d9.js.map": "/static/js/main.b6ae49d9.js.map"
   },
   "entrypoints": [
     "static/css/main.d7f9fa76.css",
-    "static/js/main.c60a3a9f.js"
+    "static/js/main.b6ae49d9.js"
   ]
 }
